@@ -1,4 +1,4 @@
-# SmartLogix - Plataforma Inteligente para Gestion Logistica (Microservicios)
+# Evaluacion 2 - SmartLogix - Plataforma Inteligente para Gestion Logistica (Microservicios)
 
 Proyecto de referencia para el caso semestral de Informatica.
 Incluye una arquitectura realista para PYMEs eCommerce con estos modulos:
